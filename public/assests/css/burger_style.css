@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background: linear-gradient(rgb(233, 229, 222), rgb(243, 216, 158));
+  font-family: sans-serif;
+}
+h2 {
+  color: rgb(141, 9, 9);
+}
+ul {
+  list-style: none;
+  color: black;
+}
+ul li {
+  background: white;
+}
+#newhead {
+  background: rgb(230, 160, 11);
+  font-size: 20px;
+  padding: 5px;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+}
+#devouredhead {
+  background: #29a745;
+  font-size: 20px;
+  padding: 5px;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+}
