@@ -13,4 +13,4 @@ Your app will store every burger in a database, whether devoured or not.
  - MySQL
  
  
-[Click Here to Eat A Burger](https://friendfinderpa-2831.herokuapp.com/)
+[Click Here to Eat A Burger](https://burger1359.herokuapp.com/)
